@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=성일정보고등학교&nbsp;21220&nbsp;정은교&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=eunkyo3&fontSize=90" />
 
 <a href="https://instagram.com/kyo_0209_">
     <img 
