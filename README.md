@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=blue&height=200&section=header&text=eunkyo3&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=eunkyo3&fontSize=90" />
 
 :star: **ME** :star: <br>
 <a href="https://instagram.com/kyo_0209_">
