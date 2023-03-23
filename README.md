@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=eunkyo3&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=정은교&fontSize=90" />
 
 :star: **ME** :star: <br><br>
 <a href="https://instagram.com/kyo_0209_">
@@ -9,3 +9,4 @@
 <br><br>
 :computer: **My stats** :computer:<br>
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kyoc)](https://solved.ac/kyoc/)
