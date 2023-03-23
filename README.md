@@ -6,7 +6,7 @@
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/kyo_0209_/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-<br>
+<br><br>
 phone number: 010-4242-8049
 <br><br>
 :pushpin: **language** :pushpin:<br>
