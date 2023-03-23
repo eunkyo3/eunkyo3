@@ -7,7 +7,9 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 <br><br>
-:computer: **STATS** :computer:<br>
+:: **language** :computer:<br>
+<br><br>
+:pushpin: **STATS** :pushpin:<br>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kyoc)](https://solved.ac/kyoc/)
 <br>
