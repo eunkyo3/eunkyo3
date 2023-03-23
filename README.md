@@ -7,9 +7,10 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 <br><br>
-:: **language** :computer:<br>
+:pushpin: **language** :pushpin:<br>
+# python,java, 약간의 C
 <br><br>
-:pushpin: **STATS** :pushpin:<br>
+:computer: **STATS** :computer:<br>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kyoc)](https://solved.ac/kyoc/)
 <br>
