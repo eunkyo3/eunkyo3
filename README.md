@@ -7,7 +7,7 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 <br><br>
-phone number: 010-4242-8049
+
 <br><br>
 :pushpin: **language** :pushpin:<br>
 python,java, 약간의 C
