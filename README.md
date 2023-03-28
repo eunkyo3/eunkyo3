@@ -1,4 +1,4 @@
-#Jung Eun Kyo 📚
+# Jung Eun Kyo 📚
 
 # ✏️ My Status
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kyoc)](https://solved.ac/kyoc/)
