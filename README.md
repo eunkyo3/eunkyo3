@@ -44,3 +44,7 @@
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
   
   </div>
+
+<div align="center">
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feunkyo3%2F&count_bg=%23D9E4E9&title_bg=%231B191D&icon=pixabay.svg&icon_color=%23D5DBCD&title=%EB%B0%A9+%EB%AC%B8+%EC%9E%90&edge_flat=false"/></a>
+</div>
