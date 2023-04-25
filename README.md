@@ -7,7 +7,7 @@
   <summary>정답</summary>
 
   ```
-  강해린 'ㅅ'
+  뉴진스 강해린 'ㅅ'
   ```
 </details>
   
