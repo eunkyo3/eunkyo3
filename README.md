@@ -16,7 +16,7 @@
 
 <div align="center">
   
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kyoc)](https://solved.ac/kyoc/)
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kyoc)](https://solved.ac/kyoc)
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eunkyo3)](https://github.com/eunkyo3/github-readme-stats)
  
