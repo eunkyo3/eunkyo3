@@ -1,19 +1,4 @@
-# ![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Jung-Eun-Kyo&fontAlign=70&stroke=00FF00&strokeWidth=3)
-
-<div align="center">
-
-  # Jung Eun Kyo 📚
-  
-  세상에서 가장 예쁜 사람은?
-<details>
-  <summary>정답</summary>
-
-  ```
-  뉴진스 강해린 'ㅅ'
-  ```
-</details>
-  
- </div>
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Jung%20Eun%20Kyo%20&animation=twinkling&fontsize=50&fontAlignY=40&fontAlign=70&height=250)
 
 <div align="center">
 
@@ -25,7 +10,7 @@
   
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kyoc)](https://solved.ac/kyoc/)
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eunkyo3&layout=compact&theme=tokyonight)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eunkyo3)](https://github.com/eunkyo3/github-readme-stats)
  
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunkyo3&show_icons=true&theme=tokyonight)
 
@@ -35,6 +20,7 @@
   
   ## Skills
 
+  // <img src="https://img.shields.io/badge/이름-색상코드?style=flat-square&logo=로고명&logoColor=로고색"/>
   ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
   <img alt="Flutter" src ="https://img.shields.io/badge/Flutter-02569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white"/>
@@ -62,6 +48,3 @@
   
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feunkyo3%2Fhit-counter&count_bg=%2379C83D&title_bg=%230D0739&icon=campaignmonitor.svg&icon_color=%23FDFDFD&title=%EB%B0%A9%EB%AC%B8%EC%9E%90&edge_flat=false"/></a>
 </div>
-
- [해린 알아보기](https://namu.wiki/w/%ED%95%B4%EB%A6%B0)
- ㅎㅎ
