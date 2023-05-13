@@ -2,7 +2,15 @@
 
 <div align="center">
 
-  # My Status ⭐:
+  # Introduce me 🙋‍♂️
+  
+  Hello, my name is Jeong Eun-gyo. I am in high school. I have a lot of interest in development and am studying hard.
+
+  </div>
+
+<div align="center">
+
+  # My Status ⭐
 
   </div>
 
@@ -18,7 +26,7 @@
 
 <div align="center">
   
-  # Skills 🔥:
+  # I've used 🔥
   
   
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
@@ -38,11 +46,7 @@
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
   <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">  
   
-  </div>
-  
-<div align="center">
-  
-  # Tools 💻:
+  <br>
   
   ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
@@ -52,7 +56,8 @@
 
 <div align="center">
   
- # Visit Me 🏡:
+ # Visit Me 🏡
   
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feunkyo3%2Fhit-counter&count_bg=%2379C83D&title_bg=%230D0739&icon=campaignmonitor.svg&icon_color=%23FDFDFD&title=%EB%B0%A9%EB%AC%B8%EC%9E%90&edge_flat=false"/></a>
+  
 </div>
