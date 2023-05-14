@@ -4,7 +4,7 @@
 
   # Introduce me 🙋‍♂️
   
-  Hello, my name is Jeong Eun-gyo. I am in high school. I have a lot of interest in development and am studying hard.
+  Hello, my name is Jeong Eun-yo. I am in high school. I have a lot of interest in development and am studying hard.
 
   </div>
 
