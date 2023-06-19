@@ -18,7 +18,6 @@
   
   [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kyoc)](https://solved.ac/kyoc)
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eunkyo3)](https://github.com/eunkyo3/github-readme-stats)
  
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunkyo3&show_icons=true&theme=tokyonight)
 
