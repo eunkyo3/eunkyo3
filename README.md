@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  # Introduce me 🙋‍♂️
+  # Introduce me 🙋‍♂
   
   Hello, my name is Jung Eun-Kyo. I am in high school. I have a lot of interest in development and am studying hard.
 
