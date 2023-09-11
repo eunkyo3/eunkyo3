@@ -12,7 +12,7 @@
 
   # My Notion Link
   
-  <h2><a href="https://www.google.com" target="_blank">노션 바로가기</a></h2>
+  <h3><a href="https://www.google.com" target="_blank">노션 바로가기</a></h3>
 
   </div>
 
