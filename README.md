@@ -12,7 +12,7 @@
 
   # My Notion Link
   
-  [노션 바로가기](https://kyo-0209.notion.site/Main-7a8894291c24415da903947d7748fac3?pvs=4)
+  <h2><a href="https://www.google.com" target="_blank">노션 바로가기</a></h2>
 
   </div>
 
