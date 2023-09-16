@@ -9,7 +9,7 @@
 |**보안스터디(SST)**|멘티|2023.03 ~ 현재|
 |**앱 개발 방과후**|초급, 중급, 고급|2023.04 ~ 현재|
 |**2023 경기도 기능경기대회 클라우드 컴퓨팅**|AWS 지방기능경기대회|2023.04.03 ~ 2023.04.06|
-|**현대오토에버, 함께일하는재단**|화이트해커 양성교육|2023.07 ~ 현재|
+|**화이트해커 양성교육**|현대오토에버, 함께일하는재단|2023.07 ~ 현재|
 |**Notion**|<a href="https://kyo-0209.notion.site/599a300333d64fd1adef8a0911cf4eae?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"></a>|공부 정리|
   
   # 𝓘'𝓿𝓮 𝓾𝓼𝓮𝓭 🔥
