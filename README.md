@@ -1,51 +1,19 @@
-```
-    ___       ___       ___       ___            ___       ___       ___            ___       ___       ___
-   /\  \     /\__\     /\__\     /\  \          /\  \     /\__\     /\__\          /\__\     /\__\     /\  \
-  _\:\  \   /:/ _/_   /:| _|_   /::\  \        /::\  \   /:/ _/_   /:| _|_        /:/ _/_   |::L__L   /::\  \
- /\/::\__\ /:/_/\__\ /::|/\__\ /:/\:\__\      /::\:\__\ /:/_/\__\ /::|/\__\      /::-"\__\  |:::\__\ /:/\:\__\
- \::/\/__/ \:\/:/  / \/|::/  / \:\:\/__/      \:\:\/  / \:\/:/  / \/|::/  /      \;:;-",-"  /:;;/__/ \:\/:/  /
-  \/__/     \::/  /    |:/  /   \::/  /        \:\/  /   \::/  /    |:/  /        |:|  |    \/__/     \::/  /
-             \/__/     \/__/     \/__/          \/__/     \/__/     \/__/          \|__|               \/__/
-```
-
-<div align="center">
-
-  # Introduce me 🙋‍♂
+# 𝓙𝓾𝓷𝓰 𝓔𝓾𝓷 𝓚𝔂𝓸
+|activity|Contents|Term|
+|:--:|:---:|:--:|
+|사이버가디언즈|C 공부 & 리눅스 & CTF|2022.09 ~ 2022.12|
+|AWS 방과후|AWS 개념 및 실습|2022.11|
+|자바 중급 방과후|JavaFX로 프로그램 개발|2023.01.16 ~ 2023.02.01|
+|사이버 가디언즈 수료 & 컨퍼런스 참여|과학기술정보통신부, 한국정보기술연구원|2022.11.09|
+|개발스터디(SSS)|알고리즘 멘티|2023.03 ~ 현재|
+|보안스터디(SST)|멘티|2023.03 ~ 현재|
+|앱 개발 방과후|초급, 중급, 고급|2023.04 ~ 현재|
+|2023 경기도 기능경기대회 클라우드 컴퓨팅|AWS 지방기능경기대회|2023.04.03 ~ 2023.04.06|
+|현대오토에버, 함께일하는재단|화이트해커 양성교육|2023.07 ~ 현재|
+|Notion|<a href="https://kyo-0209.notion.site/599a300333d64fd1adef8a0911cf4eae?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"></a>|공부 정리|
   
-  Hello, my name is Jung Eun-Kyo. I am in high school. I have a lot of interest in development and am studying hard.
-
-  </div>
-
-<div align="center">
-
-  # My Notion Link
-  
-  <h3><a href="https://www.google.com](https://kyo-0209.notion.site/Main-7a8894291c24415da903947d7748fac3?pvs=4)" target="_blank">노션 바로가기</a></h3>
-
-  </div>
-
-<div align="center">
-
-<div align="center">
-
-  # My Status ⭐
-
-  </div>
-
-<div align="center">
-  
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kyoc)](https://solved.ac/kyoc)
-  
- 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunkyo3&show_icons=true&theme=tokyonight)
-
-</div>
-
-<div align="center">
-  
-  # I've used 🔥
-  
-  
+  # 𝓘'𝓿𝓮 𝓾𝓼𝓮𝓭 🔥
+  <div align="center"> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">  
   <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
@@ -73,12 +41,5 @@
   <img src="https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
   <img src="https://img.shields.io/badge/kali-557C94?style=for-the-badge&logo=kali&logoColor=white">
   
-  </div>
 
-<div align="center">
-  
- # Visit Me 🏡
-  
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feunkyo3%2Fhit-counter&count_bg=%2379C83D&title_bg=%230D0739&icon=campaignmonitor.svg&icon_color=%23FDFDFD&title=%EB%B0%A9%EB%AC%B8%EC%9E%90&edge_flat=false"/></a>
-  
-</div>
+  </div>
