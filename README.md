@@ -14,7 +14,7 @@
 <i>
 <details>
 <summary>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> My Activities
+  <img src="https://cdn3.emoji.gg/emojis/6007-shaun-thumbsup.png" alt="Eyes" width="2%" /> My Activities
 </summary>
    <br>
   
