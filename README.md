@@ -2,12 +2,26 @@
 
 <div align="center">
 
-| Algorithm Rank | [Notion Link](https://kyo-0209.notion.site/0e677e5ec6c3467a993e3ebef1fee2b6?pvs=4) |
-| --- | --- |
-|[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=kyoc)](https://solved.ac/kyoc)| <a href="https://kyo-0209.notion.site/0e677e5ec6c3467a993e3ebef1fee2b6?pvs=4"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/1024px-Notion-logo.svg.png" width="100" height="100"></a> |
+| Algorithm Rank | Github Stats | [Notion Link](https://kyo-0209.notion.site/0e677e5ec6c3467a993e3ebef1fee2b6?pvs=4) | Visit to me |
+| --- | --- | --- | --- |
+|[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=kyoc)](https://solved.ac/kyoc)| ![kyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunkyo3&show_icons=true&theme=tokyonight) | <a href="https://kyo-0209.notion.site/0e677e5ec6c3467a993e3ebef1fee2b6?pvs=4"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/1024px-Notion-logo.svg.png" width="100" height="100"></a> | <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feunkyo3%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon_color=%23E7E7E7&title=Visit&edge_flat=false"/></a> <br>Thanks for<br> visit me! |
 
 </div>
 
+<i>
+<details>
+<summary>
+  <img src="https://cdn3.emoji.gg/emojis/6007-shaun-thumbsup.png](https://cdn3.emoji.gg/emojis/8359-custom-profile.png" alt="hello" width="2%" /> My Info
+</summary>
+   <br>
+  
+| Title | detail |
+| --- | --- |
+| School | Sungil Information High School |
+| x | x |
+
+</details>
+</i>
 
 <i>
 <details>
@@ -29,7 +43,5 @@
 | 현대오토에버화이트햇 | 웹, 네트워크, 자동화, 도커, k8s, 안드로이드, 버그헌팅 | 2023.07 ~ 2023.10.23 |
 | 화이트해커 경진대회 | CTF형식 문제 풀기 | 2023.11.04 |
 
-
 </details>
-
 </i>
