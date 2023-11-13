@@ -18,7 +18,7 @@
 | Title | detail |
 | --- | --- |
 | School | Sungil Information High School |
-| x | x |
+| Certification | 정보처리기능사, ITQ(한글, 파워포인트, 엑셀) |
 
 </details>
 </i>
