@@ -1,9 +1,11 @@
 # Jung Eunkyo
 
 **Backend Engineer**
+
 Focusing on Backend Systems, Private Cloud Infrastructure, and AI/ML Integration.
 
 ## Portfolio
+
 For detailed technical stacks, project history, and work experience, please visit my portfolio:
 > **[https://eunkyo3.github.io/Portfolio/](https://eunkyo3.github.io/Portfolio/)**
 
