@@ -14,6 +14,11 @@
   ├── EDGE    장비와 서버를 잇는 엣지 게이트웨이
   ├── SERVER  수집 서버와 시계열 데이터 집계
   └── UI      실시간 데이터가 한눈에 읽히는 화면
+
+> cat work.txt
+  애니셀 · 풀스택 개발자 (2024.03 ~ 재직 중)
+  회사 프로젝트(게이트 보안 시스템, 설비 유지보수 관리 등)는
+  코드가 비공개라 포트폴리오에 정리했습니다 → eunkyo3.github.io
 ```
 
 [![Portfolio](https://img.shields.io/badge/portfolio-eunkyo3.github.io-181717?style=flat-square)](https://eunkyo3.github.io)
