@@ -7,12 +7,13 @@
 ╚══════╝ ╚═════╝ ╚═╝  ╚═══╝╚═╝  ╚═╝   ╚═╝    ╚═════╝
 
 > whoami
-  Jung Eunkyo — Backend Engineer
+  정은교 (Jung Eunkyo) — 풀스택 개발자
 
 > cat focus.txt
-  ├── Backend Systems
-  ├── Private Cloud Infrastructure
-  └── AI / ML Integration
+  장비에서 화면까지, 데이터를 끝까지 책임집니다
+  ├── EDGE    장비와 서버를 잇는 엣지 게이트웨이
+  ├── SERVER  수집 서버와 시계열 데이터 집계
+  └── UI      실시간 데이터가 한눈에 읽히는 화면
 ```
 
 [![Portfolio](https://img.shields.io/badge/portfolio-eunkyo3.github.io-181717?style=flat-square)](https://eunkyo3.github.io)
